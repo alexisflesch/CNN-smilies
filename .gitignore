@@ -1,1 +1,3 @@
 database/draw.py
+.vscode
+__pycache__
